@@ -12,3 +12,4 @@ Aplicación de escritorio para gestionar túneles SSH a MySQL de forma simple.
 
 ## Descarga
 Descarga la última versión desde la sección **Releases**.
+https://github.com/evansDarc/TSM/releases/tag/v1.0.0
